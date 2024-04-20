@@ -6,18 +6,18 @@ author: "Tim Liu"
 
 ## 1. Why Jekyll?
 
-I've tried many many ways to acheive the goal of making a blog site that fits my taste.
+I've tried in many many ways to acheive the goal of making a blog site that fits my taste.
 
-At first, I tried to code all the `HTML`, `CSS`, and potentially `JavaScript` all by myself.
-Well, obviously it did not work for me. I was way too noob for that.
+At first, I tried to code all the `HTML`, `CSS`, and potentially `JavaScript` singlehandedly.
+Well, obviously it did not work for me. As a noob, I would never succeed.
 
 Then I heard about *WordPress*, and used it to create a blog site easily.
 Don't get me wrong, *WordPress* is very newbie-friendly and easy to work with.
 I just think that it's way too heavy as a blog framework, especially when you have things like *Typecho* around.
 
 Therefore, I decided to give *Typecho* a try, and what it represents to me is genuinely amazing.
-Unluckily, one little flaw of the splendid *Typecho*, which is the fact that the default skin of the framework is in Chinese.
-You know, although I am Chinese, one of my main goals of creating a blog is to practice my English writing skills.
+Unluckily, one little flaw of the splendid *Typecho*, which is the fact that the default skin of the framework is in Chinese, made me give up using it.
+You know, although I am Chinese, one of my main goals of creating a blog has always been to practice my English writing skills.
 Seeing English text on a predominantly Chinese website is just... *cringe*
 
 And that was why I landed my plane on *Jekyll* despite having the opportunity to land on busier airports.

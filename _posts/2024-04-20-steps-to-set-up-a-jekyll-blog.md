@@ -21,8 +21,8 @@ You know, although I am Chinese, one of my main goals of creating a blog has alw
 Seeing English text on a predominantly Chinese website is just... *cringe*
 
 And that was why I landed my plane on *Jekyll* despite having the opportunity to land on busier airports.
-Compared to the last two **frameworks**, *Jekyll* is more like a **HTML writer**.
-So it basically just does all the *coding* work for me, which is just what I need.
+Compared to the last two **frameworks**, *Jekyll* is more like a **HTML generator**.
+So it basically just does all of the *coding* work for me, which is just what I need.
 
 ## 2. How do you set it up?
 

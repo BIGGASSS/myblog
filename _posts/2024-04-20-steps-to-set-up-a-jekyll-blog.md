@@ -58,4 +58,4 @@ And it's basically done.
 
 If you followed my steps, your `./myblog` should be something like this.
 
-[Image](/var/www/html/assets/after_install.png)
+[Image](/assets/after_install.png)

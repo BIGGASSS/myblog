@@ -31,3 +31,31 @@ In this guide, I will be using a cloud server, or a *Virtual Private Server (VPS
 solely because I do have an unused *VPS* available.
 Also, I am not familiar with *Github-Pages*, and I have no idea how do you set it up with *Pages*.
 
+### a. Prerequisites
+
+Using *Jekyll* requires you to have the following packeges installed:
+
+- Ruby (version >= 2.5.0)
+- RubyGems
+- GCC and Make
+
+Instructions on fulfilling the requirements can be seen on [*Jekyll's* website](https://jekyllrb.com/docs/installation/#requirements).
+
+### b. Installation
+
+I. Install *Jekyll* and *bundler*.
+```bash
+gem install Jekyll bundler
+```
+
+II. Create a new *Jekyll* site at `./myblog`.
+```bash
+jekyll new myblog
+```
+And it's basically done.
+
+### Setting up
+
+If you followed my steps, your `./myblog` should be something like this.
+
+[Image](assets/)

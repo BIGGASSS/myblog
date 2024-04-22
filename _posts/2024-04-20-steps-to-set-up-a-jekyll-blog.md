@@ -65,4 +65,4 @@ You can just edit those `markdown` files, put your articles in `./_posts` and us
 JEKYLL_ENV=production bundle exec jekyll build
 ```
 
-After doing all of these, you can upload of contents in `./site` to your server, and you're basically done.
+After doing all of these, you can upload all of the contents in `./site` to your server, and you're basically done.

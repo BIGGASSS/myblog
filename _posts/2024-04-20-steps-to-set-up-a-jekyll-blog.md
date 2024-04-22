@@ -58,4 +58,4 @@ And it's basically done.
 
 If you followed my steps, your `./myblog` should be something like this.
 
-[Image](/asset/after_install.png)
+![Image](/asset/after_install.png)

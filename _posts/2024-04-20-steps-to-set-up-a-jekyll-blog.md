@@ -59,3 +59,10 @@ And it's basically done.
 If you followed my steps, your `./myblog` should be something like this.
 
 ![Image](/asset/after_install.png)
+
+You can just edit those `markdown` files, put your articles in `./_posts` and use the following command to create the `HTML` files in `./_site`.
+```bash
+JEKYLL_ENV=production bundle exec jekyll build
+```
+
+After doing all of these, you can upload of contents in `./site` to your server, and you're basically done.
